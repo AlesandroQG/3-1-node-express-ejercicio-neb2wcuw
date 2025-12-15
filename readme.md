@@ -30,3 +30,7 @@ Observa cómo cada ruta muestra su propio mensaje y el path actual.
 * Ejecuta la aplicación y visita cada ruta en tu navegador para ver el resultado.
 
 Experimenta con diferentes rutas y mensajes para familiarizarte con cómo Express maneja las rutas y accede a la información de la URL
+
+# 3-1-node-express-ejercicio-neb2wcuw
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/AlesandroQG/3-1-node-express-ejercicio-neb2wcuw)
